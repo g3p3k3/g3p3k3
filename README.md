@@ -2,7 +2,7 @@
 - 👀 I’m interested in Android Application Development using Java, Web development using Javascript, php.
 - 🌱 I’m currently learning Android.
 - 💞️ I’m looking to collaborate on Android Development.
-- 📫 I can be reached through my mail Id guru_p_kumar@yahoo.ci.in
+- 📫 I can be reached through my mail Id guru_p_kumar@yahoo.co.in
 
 <!---
 g3p3k3/g3p3k3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
